@@ -82,6 +82,7 @@
             android:textSize="28sp" />
 
         <Button
+            android:id="@+id/button6"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
